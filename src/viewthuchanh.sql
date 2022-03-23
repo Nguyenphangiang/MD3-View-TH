@@ -39,7 +39,7 @@ CREATE TABLE `customers` (
                              `phone` varchar(50) NOT NULL,
                              `addressLine1` varchar(50) NOT NULL,
                              `addressLine2` varchar(50) DEFAULT NULL,
-                             `city` varchar(50) NOT NULL,
+                             `city` varchar(50) NOT NULL,9
                              `state` varchar(50) DEFAULT NULL,
                              `postalCode` varchar(15) DEFAULT NULL,
                              `country` varchar(50) NOT NULL,
